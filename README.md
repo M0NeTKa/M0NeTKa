@@ -62,6 +62,4 @@ CSS                      1 repo              █░░░░░░░░░░�
  Last Updated on 01/10/2022 14:30:52 UTC
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=m0netka&style=for-the-badge&color=292d3e)
-
 **I love you** ❤️
