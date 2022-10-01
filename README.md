@@ -26,6 +26,40 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0netka&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&border_radius=16&include_all_commits_true)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 76 Contributions in the Year 2022
+ > 
+> 📦 75.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I Mostly Code in PHP** 
+
+```text
+PHP                      6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/M0NeTKa/M0NeTKa/main/charts/bar_graph.png) 
+
+
+ Last Updated on 01/10/2022 14:30:52 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=m0netka&style=for-the-badge&color=292d3e)
