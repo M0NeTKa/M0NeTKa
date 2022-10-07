@@ -118,5 +118,3 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 05/10/2022 19:06:34 UTC
 <!--END_SECTION:waka-->
-
-**I love you** ❤️
