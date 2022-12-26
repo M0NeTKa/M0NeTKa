@@ -8,6 +8,8 @@ Hey There
 - 💜 **I'm** interested in development, CG graphics, particularly the UI design, game design, motion design, 3d modeling; photography; music.
 - 👨🏻‍🎓 **I'm** learning React: TypeScript, Redux, Router, HookForm; Java; Python.
 
+> links...
+
 <br>
 
 <div align="center">
@@ -21,23 +23,20 @@ Hey There
 <div align="center">
  <h3>🖥️ Skills</h3>
  
- <h4>Languages&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front-end</h4>
+ <h4>Languages&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front-end</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,mysql&perline=4" />
   </a>&emsp;&emsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,redux,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,redux,vite&perline=4" />
   </a>
  <h4>Graphics</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,lr,ae,pr,blender," />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ae,pr,blender" />
   </a>
- <h4>Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Other tools</h4>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,idea" />
-  </a>&emsp;&emsp;
+ <h4>Other tools</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=au,git,github" />
+    <img src="https://skillicons.dev/icons?i=idea,au,git,github" />
   </a>
  
 </div>
