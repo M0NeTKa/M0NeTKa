@@ -1,111 +1,65 @@
-## Skills
-### Graphic
+<h3 align="center">
+Hey There
+<img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="20" height="20">
+</h3>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+- 🙋🏻‍♂️ **I'm** @M0NeTKa
+- 💻 **I'm** a junior front-end developer and designer.
+- 💜 **I'm** interested in development, CG graphics, particularly the UI design, game design, motion design, 3d modeling; photography; music.
+- 👨🏻‍🎓 **I'm** learning React: TypeScript, Redux, Router, HookForm; Java; Python.
 
-### Develop
+<br>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=m0netka&color=34324a&label=Profile+Views&style=for-the-badge)
+ 
+</div>
 
-### Frameworks
+## 
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+<div align="center">
+ <h3>🖥️ Skills</h3>
+ 
+ <h4>Languages&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front-end</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,mysql" />
+  </a>&emsp;&emsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,redux,vite" />
+  </a>
+ <h4>Graphics</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,lr,ae,pr,blender," />
+  </a>
+ <h4>Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Other tools</h4>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,idea" />
+  </a>&emsp;&emsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=au,git,github" />
+  </a>
+ 
+</div>
 
-## Stats
+<!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/305655865627770881?simple=true) -->
+<!-- ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/305655865627770881) -->
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=M0NeTKa&theme=material-palenight&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0netka&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&border_radius=16&include_all_commits_true) -->
+## 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2047%20mins-blue)
+<div align="center">
+ <h3>🎧 Spotify Playing</h3>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2icodfechvl9zg7076ulr81f6&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2icodfechvl9zg7076ulr81f6&redirect=true)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147%20Thousand%20lines%20of%20code-blue)
+</div>
 
-**🐱 My GitHub Data** 
+## 
 
-> 🏆 90 Contributions in the Year 2022
- > 
-> 📦 75.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm a Night 🦉** 
+<div align="center">
+ <h3>📊 Github Stats</h3>
+  
+![](https://github.com/m0netka/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/m0netka/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
-```text
-🌞 Morning    3 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.46% 
-🌆 Daytime    49 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.16% 
-🌃 Evening    62 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.82% 
-🌙 Night      8 commits      ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.56%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       25 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.49% 
-Tuesday      6 commits      ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.92% 
-Wednesday    15 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.3% 
-Thursday     16 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.11% 
-Friday       30 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.59% 
-Saturday     18 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.75% 
-Sunday       12 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Simferopol
-
-💬 Programming Languages: 
-Java                     31 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   78.68% 
-XML                      4 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.88% 
-CLASS                    3 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.44%
-
-🔥 Editors: 
-IntelliJ                 39 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
-
-🐱‍💻 Projects: 
-DevVimeBot               34 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.62% 
-BedWars                  4 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.38%
-
-💻 Operating System: 
-Windows                  39 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
-
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      6 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.33% 
-Java                     4 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.22% 
-JavaScript               3 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.67% 
-Python                   2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.11% 
-CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.56%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/M0NeTKa/M0NeTKa/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 18:49:23 UTC
-<!--END_SECTION:waka-->
+</div>
