@@ -4,11 +4,12 @@ Hey There
 </h3>
 
 - 🙋🏻‍♂️ **I'm** @M0NeTKa
-- 💻 **I'm** a junior front-end developer and designer.
+- 💻 **I'm** a junior front-end developer, designer.
 - 💜 **I'm** interested in development, CG graphics, particularly the UI design, game design, motion design, 3d modeling; photography; music.
 - 👨🏻‍🎓 **I'm** learning React: TypeScript, Redux, Router, HookForm; Java; Python.
 
 > links...
+<!-- добавить еще иконок -->
 
 <br>
 
