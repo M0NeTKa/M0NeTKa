@@ -24,12 +24,13 @@ Hey There
 <div align="center">
  <h3>🖥️ Skills</h3>
  
- <h4>Languages&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front-end</h4>
+ <h4>Languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,mysql&perline=4" />
-  </a>&emsp;&emsp;
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,mysql" />
+  </a>
+ <h4>Front-end</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,redux,vite&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,redux,vite" />
   </a>
  <h4>Graphics</h4>
   <a href="https://skillicons.dev">
