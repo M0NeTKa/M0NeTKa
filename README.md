@@ -48,12 +48,12 @@ Hey There
 
 ## 
 
-<div align="center">
+<!-- <div align="center">
  <h3>🎧 Spotify Playing</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2icodfechvl9zg7076ulr81f6&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2icodfechvl9zg7076ulr81f6&redirect=true)
 
-</div>
+</div> -->
 
 ## 
 
