@@ -46,21 +46,21 @@ Hey There
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/305655865627770881?simple=true) -->
 <!-- ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/305655865627770881) -->
 
-<!-- ##  -->
+## 
 
-<!-- <div align="center">
+<div align="center">
  <h3>🎧 Spotify Playing</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2icodfechvl9zg7076ulr81f6&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2icodfechvl9zg7076ulr81f6&redirect=true)
 
-</div> -->
+</div>
 
-<!-- ##  -->
+## 
 
-<!-- <div align="center">
+<div align="center">
  <h3>📊 Github Stats</h3>
   
 ![](https://github.com/m0netka/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/m0netka/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
-</div> -->
+</div>
