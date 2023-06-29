@@ -30,7 +30,7 @@ Hey There
   </a>
  <h4>Front-end</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,redux,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,redux,vite" />
   </a>
  <h4>Graphics</h4>
   <a href="https://skillicons.dev">
