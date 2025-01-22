@@ -101,7 +101,10 @@ const pc = {
   gpu: "GigaByte GeForce RTX 4060",
   ram: "Kingston Fury 32GB 3200 MHz",
   mother: "Asus TUF Gaming B660M-Plus",
-  hard: ["1 TB", "500 GB"],
+  hard: {
+    1: "1 TB",
+    2: "500 GB",
+  },
   ssd: {
     sata: "Kingston 240 GB",
     m2: "Samsung 1TB",
@@ -115,15 +118,21 @@ const setup = {
     1: "Asus 240Hz",
     2: "MSI 180Hz",
   },
-  keyboard: ["Razer Hunstman Elite (Purple)", "Aula F75 (Green)"],
+  keyboard: {
+    1: "Razer Hunstman Elite (Purple)",
+    2: "Aula F75 (Green)",
+  },
   mouse: "Razer DeathAdder v2 Pro",
-  headphone: ["Logitech G Pro X 2 Lightspeed", "Beyerdynamic DT 770 PRO"],
+  headphone: {
+    1: "Logitech G Pro X 2 Lightspeed",
+    2: "Beyerdynamic DT 770 PRO",
+  },
 };
 
 const audio = {
   microphone: "~",
   audio_interface: "Focusrite Scarlett Solo 3rd Gen",
-  headphone_record: setup.headphone[1],
+  headphone_record: setup.headphone[2],
 };
 
 const pentablet = "Parblo A610 Pro";
