@@ -15,7 +15,6 @@
  <a href="https://tiktok.com/m0netka"><img src="https://img.shields.io/badge/TikTok-000000.svg?logo=tiktok&logoColor=white" alt="TikTok"/></a>
  <a href="https://www.youtube.com/@M0NeTKa"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white" alt="YouTube"/></a>
  <a href="https://www.tiktok.com/@m0netkaa"><img src="https://img.shields.io/badge/Shikimori-1A68B2.svg?logo=shikimori&logoColor=white" alt="Shikimori"/></a>
- <img src="https://komarev.com/ghpvc/?username=m0netka&color=ff69b4&label=Profile+Views&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -153,6 +152,8 @@ const pentablet = "Parblo A610 Pro";
   
 <!-- ![](https://github.com/m0netka/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/m0netka/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only) -->
+
+<img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C751%20hrs%206%20mins-blue)
