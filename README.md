@@ -149,9 +149,10 @@ const pentablet = "Parblo A610 Pro";
 
 <div align="center">
  <h3>📊 ɢɪᴛʜᴜʙ ѕᴛᴀᴛѕ</h3>
+</div>
   
-![](https://github.com/m0netka/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/m0netka/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+<!-- ![](https://github.com/m0netka/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/m0netka/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only) -->
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
@@ -202,5 +203,3 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 22/01/2025 17:40:55 UTC
 <!--END_SECTION:waka-->
-
-</div>
