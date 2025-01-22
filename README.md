@@ -153,4 +153,7 @@ const pentablet = "Parblo A610 Pro";
 ![](https://github.com/m0netka/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/m0netka/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
