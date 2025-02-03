@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C789%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C799%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -165,14 +165,31 @@ const pentablet = "Parblo A610 Pro";
 
 > 📦 116.8 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    14 hrs 43 mins      █████████████░░░░░░░░░░░░   50.20 % 
+TypeScript               9 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   33.93 % 
+SCSS                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+
+🔥 Editors: 
+Chrome                   17 hrs              ██████████████░░░░░░░░░░░   57.94 % 
+WebStorm                 12 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
+GoLand                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+
+💻 Operating System: 
+Mac                      29 hrs 20 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -186,5 +203,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 01:40:57 UTC
+ Last Updated on 03/02/2025 01:38:21 UTC
 <!--END_SECTION:waka-->
