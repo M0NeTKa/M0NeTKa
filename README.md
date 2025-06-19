@@ -157,15 +157,13 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C494%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C497%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 119.5 kB Used in GitHub's Storage 
- > 
-> 🏆 268 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -195,15 +193,15 @@ Windows                  14 hrs 7 mins       ████████░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            █████████████░░░░░░░░░░░░   52.63 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TypeScript               21 repos            █████████████░░░░░░░░░░░░   53.85 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
 
 
- Last Updated on 18/06/2025 01:58:04 UTC
+ Last Updated on 19/06/2025 01:59:04 UTC
 <!--END_SECTION:waka-->
