@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C887%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C887%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -177,13 +177,13 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 49 mins       █████████████████████████   100.00 % 
+Other                    1 hr 32 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 49 mins       █████████████████████████   100.00 % 
+Chrome                   1 hr 32 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -199,5 +199,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2025 01:53:37 UTC
+ Last Updated on 08/11/2025 01:47:37 UTC
 <!--END_SECTION:waka-->
