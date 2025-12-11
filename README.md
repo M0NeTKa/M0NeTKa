@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C000%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C001%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -165,7 +165,7 @@ const pentablet = "Parblo A610 Pro";
 
 > 📦 119.7 kB Used in GitHub's Storage 
  > 
-> 🏆 307 Contributions in the Year 2025
+> 🏆 308 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -177,14 +177,19 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 59 mins      █████████████████████████   100.00 % 
+Other                    10 hrs 8 mins       ██████████████████████░░░   89.49 % 
+TypeScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+SCSS                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+SourceMap                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 59 mins      █████████████████████████   100.00 % 
+Chrome                   10 hrs 8 mins       ██████████████████████░░░   89.49 % 
+WebStorm                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 💻 Operating System: 
-Windows                  10 hrs 56 mins      ███████████████████████░░   91.33 % 
-Mac                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Windows                  9 hrs 47 mins       ██████████████████████░░░   86.32 % 
+Mac                      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -200,5 +205,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2025 02:00:48 UTC
+ Last Updated on 11/12/2025 02:02:21 UTC
 <!--END_SECTION:waka-->
