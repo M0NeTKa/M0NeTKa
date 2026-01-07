@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C043%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C052%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -165,7 +165,7 @@ const pentablet = "Parblo A610 Pro";
 
 > 📦 119.7 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -177,14 +177,20 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 31 mins       █████████████████████████   100.00 % 
+Other                    14 hrs 32 mins      ███████████████░░░░░░░░░░   59.75 % 
+TypeScript               8 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.58 % 
+Go                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+SCSS                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 31 mins       █████████████████████████   100.00 % 
+Chrome                   14 hrs 55 mins      ███████████████░░░░░░░░░░   61.35 % 
+WebStorm                 8 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+GoLand                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-Windows                  6 hrs 17 mins       █████████████████████░░░░   83.66 % 
-Mac                      1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Windows                  15 hrs 45 mins      ████████████████░░░░░░░░░   64.80 % 
+Mac                      8 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -200,5 +206,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2026 02:05:25 UTC
+ Last Updated on 07/01/2026 02:05:12 UTC
 <!--END_SECTION:waka-->
