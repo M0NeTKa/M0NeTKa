@@ -157,15 +157,15 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C237%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C238%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.20%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 119.7 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2026
+> 🏆 13 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -177,19 +177,19 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Java                     15 hrs 20 mins      █████████████░░░░░░░░░░░░   50.70 % 
-Other                    14 hrs 18 mins      ████████████░░░░░░░░░░░░░   47.30 % 
-Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Kotlin                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    13 hrs 13 mins      ██████████████░░░░░░░░░░░   55.24 % 
+Java                     10 hrs 4 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
+Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Kotlin                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 hrs 25 mins      █████████████░░░░░░░░░░░░   50.97 % 
-Chrome                   14 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.04 % 
-PyCharm                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Chrome                   13 hrs 22 mins      ██████████████░░░░░░░░░░░   55.84 % 
+IntelliJ IDEA            10 hrs 16 mins      ███████████░░░░░░░░░░░░░░   42.91 % 
+PyCharm                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Windows                  30 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -205,5 +205,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 02:50:42 UTC
+ Last Updated on 11/02/2026 02:48:33 UTC
 <!--END_SECTION:waka-->
