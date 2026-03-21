@@ -157,15 +157,15 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C301%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C303%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 122.7 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 46 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -177,33 +177,34 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 38 mins       ██████████████████████░░░   87.54 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Go                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-go.mod                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-RPMSpec                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    7 hrs 7 mins        ██████████████████░░░░░░░   73.45 % 
+TypeScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Go                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+SCSS                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 51 mins       ███████████████████████░░   90.83 % 
-WebStorm                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-GoLand                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Chrome                   7 hrs 42 mins       ████████████████████░░░░░   79.39 % 
+WebStorm                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+GoLand                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Windows                  6 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 37 mins       █████████████████████████   99.29 % 
+Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
-Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TypeScript               21 repos            ████████████░░░░░░░░░░░░░   46.67 % 
+Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 
 
 
- Last Updated on 20/03/2026 02:34:31 UTC
+ Last Updated on 21/03/2026 02:28:35 UTC
 <!--END_SECTION:waka-->
