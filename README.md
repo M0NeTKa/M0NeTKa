@@ -157,15 +157,15 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C342%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C353%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.57%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 122.7 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2026
+> 🏆 74 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -177,34 +177,35 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 51 mins      █████████████████████░░░░   85.67 % 
-YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Go                       33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Other                    23 hrs 51 mins      ██████████████████░░░░░░░   70.57 % 
+YAML                     5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+TypeScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Go                       33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 51 mins      ██████████████████████░░░   88.95 % 
-WebStorm                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-GoLand                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Chrome                   26 hrs 30 mins      ████████████████████░░░░░   78.40 % 
+WebStorm                 6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+GoLand                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  30 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 46 mins      █████████████████████████   99.88 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ████████████░░░░░░░░░░░░░   46.67 % 
-Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+TypeScript               21 repos            ███████████░░░░░░░░░░░░░░   45.65 % 
+Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 03/04/2026 02:48:19 UTC
+ Last Updated on 04/04/2026 02:38:31 UTC
 <!--END_SECTION:waka-->
