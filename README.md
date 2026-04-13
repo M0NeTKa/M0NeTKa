@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C393%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C396%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -177,19 +177,14 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 6 mins       ███████████████████████░░   90.71 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Nginx Configuration      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-.env file                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other                    26 hrs 40 mins      ████████████████████████░   97.51 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 10 mins      ████████████████████████░   94.60 % 
-GoLand                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-WebStorm                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Chrome                   27 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -205,5 +200,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2026 03:21:48 UTC
+ Last Updated on 13/04/2026 03:28:20 UTC
 <!--END_SECTION:waka-->
