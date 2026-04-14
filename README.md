@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C396%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C404%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -177,14 +177,14 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 40 mins      ████████████████████████░   97.51 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Other                    25 hrs 14 mins      ████████████████████████░   97.58 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 21 mins      █████████████████████████   100.00 % 
+Chrome                   25 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -200,5 +200,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 03:28:20 UTC
+ Last Updated on 14/04/2026 03:18:41 UTC
 <!--END_SECTION:waka-->
