@@ -171,20 +171,6 @@ const pentablet = "Parblo A610 Pro";
  > 
 > 🔑 23 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    7 hrs 28 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   7 hrs 28 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  7 hrs 26 mins       █████████████████████████   99.39 % 
-Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -198,5 +184,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 04:06:33 UTC
+ Last Updated on 23/05/2026 03:43:09 UTC
 <!--END_SECTION:waka-->
