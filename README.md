@@ -159,7 +159,7 @@ const pentablet = "Parblo A610 Pro";
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C477%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.60%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -177,28 +177,28 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs               █████████████████████████   100.00 % 
+Other                    1 hr 28 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   2 hrs               █████████████████████████   100.00 % 
+Chrome                   1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 59 mins        █████████████████████████   98.78 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Mac                      1 hr 26 mins        █████████████████████████   98.33 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
-Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
+Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
 
 
- Last Updated on 24/06/2026 04:01:22 UTC
+ Last Updated on 25/06/2026 04:01:42 UTC
 <!--END_SECTION:waka-->
