@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C491%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C494%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.60%20million%20lines%20of%20code-blue?style=flat)
 
@@ -177,28 +177,28 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    17 hrs 4 mins       █████████████████████████   99.97 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    21 hrs 41 mins      █████████████████████████   99.98 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   17 hrs 4 mins       █████████████████████████   100.00 % 
+Chrome                   21 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
-Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   42.00 % 
+Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 30/06/2026 04:04:00 UTC
+ Last Updated on 01/07/2026 04:20:06 UTC
 <!--END_SECTION:waka-->
