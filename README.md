@@ -171,26 +171,6 @@ const pentablet = "Parblo A610 Pro";
  > 
 > 🔑 24 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    26 hrs 30 mins      ████████████████████████░   95.22 % 
-Go                       31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-
-🔥 Editors: 
-Chrome                   27 hrs 9 mins       ████████████████████████░   97.54 % 
-Claude Code              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-GoLand                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-💻 Operating System: 
-Mac                      27 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -204,5 +184,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:15:08 UTC
+ Last Updated on 25/07/2026 03:16:17 UTC
 <!--END_SECTION:waka-->
