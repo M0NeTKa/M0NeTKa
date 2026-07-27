@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C599%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C599%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.60%20million%20lines%20of%20code-blue?style=flat)
 
@@ -177,21 +177,21 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 16 mins      ████████████████████████░   95.53 % 
-Go                       27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other                    23 hrs 20 mins      ████████████████████████░   95.72 % 
+Go                       27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 51 mins      ████████████████████████░   97.72 % 
-Claude Code              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-GoLand                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Chrome                   23 hrs 53 mins      ████████████████████████░   97.98 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+GoLand                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      26 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -207,5 +207,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 03:26:40 UTC
+ Last Updated on 27/07/2026 03:36:00 UTC
 <!--END_SECTION:waka-->
