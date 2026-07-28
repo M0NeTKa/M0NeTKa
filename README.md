@@ -157,7 +157,9 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C599%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2033%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.60%20million%20lines%20of%20code-blue?style=flat)
 
@@ -165,7 +167,7 @@ const pentablet = "Parblo A610 Pro";
 
 > 📦 122.8 kB Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2026
+> 🏆 88 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -194,6 +196,28 @@ WebStorm                 0 secs              ░░░░░░░░░░░�
 Mac                      24 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 18 mins (1.26%)
+
+✍️ 218 lines written by AI, 2 lines written by hand (99.09% AI-written)
+
+🔤 5,847,116 Input Tokens, 41,764 Output Tokens
+
+💵 $30.28 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 6 AI Prompts
+
+Opus                     252 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.09% of written lines came from AI
+📝 Concise Prompter — average 146 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.79% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -207,5 +231,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:36:00 UTC
+ Last Updated on 28/07/2026 02:52:04 UTC
 <!--END_SECTION:waka-->
