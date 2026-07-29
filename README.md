@@ -157,10 +157,6 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2033%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2010%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.60%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -179,43 +175,43 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 20 mins      ████████████████████████░   95.72 % 
-Go                       27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    20 hrs 3 mins       █████████████████████░░░░   85.49 % 
+TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Chrome                   23 hrs 53 mins      ████████████████████████░   97.98 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-GoLand                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Chrome                   20 hrs 45 mins      ██████████████████████░░░   88.47 % 
+Claude Code              2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+WebStorm                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      24 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (1.26%)
+⏱ AI Coding Time: 2 hrs 32 mins (10.8%)
 
-✍️ 218 lines written by AI, 2 lines written by hand (99.09% AI-written)
+✍️ 9,178 lines written by AI, 19 lines written by hand (99.79% AI-written)
 
-🔤 5,847,116 Input Tokens, 41,764 Output Tokens
+🔤 124,860,005 Input Tokens, 381,639 Output Tokens
 
-💵 $30.28 Estimated AI Cost This Week
+💵 $633.60 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
-Opus                     252 lines           █████████████████████████   100.00 % 
+Opus                     9,224 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.09% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.79% of changed lines were hand-edited
+🤖 AI-Driven — 99.79% of written lines came from AI
+📚 Verbose Prompter — average 2,621 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -231,5 +227,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:52:04 UTC
+ Last Updated on 29/07/2026 03:11:41 UTC
 <!--END_SECTION:waka-->
