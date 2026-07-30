@@ -157,13 +157,17 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.60%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2030%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2042%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 122.8 kB Used in GitHub's Storage 
  > 
-> 🏆 88 Contributions in the Year 2026
+> 🏆 101 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -175,57 +179,57 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 3 mins       █████████████████████░░░░   85.49 % 
-TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Other                    25 hrs 39 mins      ███████████████████░░░░░░   76.44 % 
+TypeScript               3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+TSConfig                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-Chrome                   20 hrs 45 mins      ██████████████████████░░░   88.47 % 
-Claude Code              2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-WebStorm                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Chrome                   27 hrs 33 mins      █████████████████████░░░░   82.09 % 
+Claude Code              5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+WebStorm                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      23 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (10.8%)
+⏱ AI Coding Time: 5 hrs 47 mins (17.27%)
 
-✍️ 9,178 lines written by AI, 19 lines written by hand (99.79% AI-written)
+✍️ 20,168 lines written by AI, 21 lines written by hand (99.9% AI-written)
 
-🔤 124,860,005 Input Tokens, 381,639 Output Tokens
+🔤 405,896,484 Input Tokens, 843,772 Output Tokens
 
-💵 $633.60 Estimated AI Cost This Week
+💵 $2050.33 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 5 AI Sessions, 30 AI Prompts
 
-Opus                     9,224 lines         █████████████████████████   100.00 % 
+Opus                     20,252 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📚 Verbose Prompter — average 2,621 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 3,585 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Go                       7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
+Java                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Go                       7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
 
 
- Last Updated on 29/07/2026 03:11:41 UTC
+ Last Updated on 30/07/2026 02:44:13 UTC
 <!--END_SECTION:waka-->
