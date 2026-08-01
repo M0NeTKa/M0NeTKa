@@ -157,11 +157,11 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C366%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C366%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -179,27 +179,26 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    34 hrs 2 mins       ████████████████████░░░░░   79.57 % 
-TypeScript               3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-TSConfig                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Python                   40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Other                    36 hrs 46 mins      ████████████████████░░░░░   81.16 % 
+TypeScript               4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+TSConfig                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Chrome                   36 hrs 7 mins       █████████████████████░░░░   84.42 % 
-Claude Code              6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-WebStorm                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Chrome                   38 hrs 42 mins      █████████████████████░░░░   85.41 % 
+Claude Code              6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+WebStorm                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      42 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      45 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 26 mins (15.07%)
+⏱ AI Coding Time: 6 hrs 26 mins (14.23%)
 
 ✍️ 20,297 lines written by AI, 21 lines written by hand (99.9% AI-written)
 
@@ -231,5 +230,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 03:26:23 UTC
+ Last Updated on 01/08/2026 03:24:59 UTC
 <!--END_SECTION:waka-->
