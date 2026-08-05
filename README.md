@@ -179,41 +179,41 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    31 hrs 38 mins      ███████████████████░░░░░░   75.58 % 
-TypeScript               5 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-TSConfig                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-MDX                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Other                    27 hrs 11 mins      ████████████████████░░░░░   80.78 % 
+TypeScript               3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+TSConfig                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+MDX                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-Chrome                   33 hrs 57 mins      ████████████████████░░░░░   81.08 % 
-Claude Code              7 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-WebStorm                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Chrome                   29 hrs 19 mins      ██████████████████████░░░   87.08 % 
+Claude Code              4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+WebStorm                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      41 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 45 mins (18.54%)
+⏱ AI Coding Time: 4 hrs 18 mins (12.79%)
 
-✍️ 23,671 lines written by AI, 21 lines written by hand (99.91% AI-written)
+✍️ 11,119 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 650,338,335 Input Tokens, 1,189,030 Output Tokens
+🔤 370,002,544 Input Tokens, 623,768 Output Tokens
 
-💵 $3281.42 Estimated AI Cost This Week
+💵 $1865.61 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 39 AI Prompts
+🧠 4 AI Sessions, 29 AI Prompts
 
-Opus                     23,730 lines        █████████████████████████   100.00 % 
+Opus                     11,157 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 3,722 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 3,526 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -229,5 +229,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 02:55:36 UTC
+ Last Updated on 05/08/2026 02:51:39 UTC
 <!--END_SECTION:waka-->
