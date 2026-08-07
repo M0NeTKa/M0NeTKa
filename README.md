@@ -157,10 +157,6 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C367%20hrs%2034%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2036%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -175,49 +171,6 @@ const pentablet = "Parblo A610 Pro";
  > 
 > 🔑 24 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    25 hrs 45 mins      ██████████████████████░░░   87.96 % 
-TypeScript               2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-MDX                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-Chrome                   27 hrs 1 min        ███████████████████████░░   92.27 % 
-Claude Code              2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-WebStorm                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-💻 Operating System: 
-Mac                      29 hrs 16 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 15 mins (7.73%)
-
-✍️ 171 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 78,410,585 Input Tokens, 197,063 Output Tokens
-
-💵 $395.96 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 25 AI Prompts
-
-Opus                     171 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,103 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -231,5 +184,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:55:38 UTC
+ Last Updated on 07/08/2026 02:52:47 UTC
 <!--END_SECTION:waka-->
