@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%208%20mins-blue?style=flat)
 
@@ -179,42 +179,42 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 24 mins      ██████████████████░░░░░░░   70.79 % 
-TypeScript               4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Markdown                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    23 hrs 52 mins      ████████████████████░░░░░   78.45 % 
+TypeScript               4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Markdown                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Chrome                   17 hrs 20 mins      ███████████████████░░░░░░   74.81 % 
-Claude Code              5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Chrome                   24 hrs 44 mins      ████████████████████░░░░░   81.28 % 
+Claude Code              5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+WebStorm                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      23 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (24.86%)
+⏱ AI Coding Time: 5 hrs 34 mins (18.3%)
 
 ✍️ 3,538 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 402,573,620 Input Tokens, 556,466 Output Tokens
+🔤 400,461,120 Input Tokens, 544,179 Output Tokens
 
-💵 $2025.82 Estimated AI Cost This Week
+💵 $2014.91 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 49 AI Prompts
+🧠 6 AI Sessions, 48 AI Prompts
 
 Opus                     3,672 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,178 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 2,221 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -231,5 +231,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 02:04:06 UTC
+ Last Updated on 10/08/2026 02:08:09 UTC
 <!--END_SECTION:waka-->
