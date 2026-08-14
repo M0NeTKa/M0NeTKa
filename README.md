@@ -179,42 +179,40 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    28 hrs 26 mins      █████████████████████░░░░   82.17 % 
-TypeScript               3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Markdown                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other                    25 hrs 3 mins       ██████████████████████░░░   86.39 % 
+TypeScript               2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 56 mins      █████████████████████░░░░   83.66 % 
-Claude Code              5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-WebStorm                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Chrome                   25 hrs 14 mins      ██████████████████████░░░   87.01 % 
+Claude Code              3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+WebStorm                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Mac                      34 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (15.97%)
+⏱ AI Coding Time: 3 hrs 41 mins (12.72%)
 
-✍️ 3,538 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,704 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 399,515,237 Input Tokens, 539,112 Output Tokens
+🔤 362,491,120 Input Tokens, 424,445 Output Tokens
 
-💵 $2010.03 Estimated AI Cost This Week
+💵 $1823.07 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 47 AI Prompts
+🧠 3 AI Sessions, 24 AI Prompts
 
-Opus                     3,672 lines         █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,838 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,263 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 2,023 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -231,5 +229,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 02:21:56 UTC
+ Last Updated on 14/08/2026 02:20:27 UTC
 <!--END_SECTION:waka-->
