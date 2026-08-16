@@ -179,41 +179,23 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 58 mins      █████████████████████████   98.60 % 
-TypeScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    23 hrs 5 mins       █████████████████████████   99.44 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 9 mins       █████████████████████████   99.34 % 
-Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-WebStorm                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Chrome                   23 hrs 10 mins      █████████████████████████   99.77 % 
+WebStorm                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      24 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (0.39%)
-
-✍️ 320 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 8,505,818 Input Tokens, 30,976 Output Tokens
-
-💵 $47.91 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opus                     347 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 23 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -229,5 +211,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 01:28:15 UTC
+ Last Updated on 16/08/2026 01:39:36 UTC
 <!--END_SECTION:waka-->
