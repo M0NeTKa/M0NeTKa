@@ -179,21 +179,39 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    32 hrs 2 mins       █████████████████████████   98.44 % 
-Go                       30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Other                    33 hrs 2 mins       █████████████████████████   98.62 % 
+Go                       27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   32 hrs 32 mins      █████████████████████████   99.99 % 
-GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Chrome                   33 hrs 9 mins       █████████████████████████   98.96 % 
+IntelliJ IDEA            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+GoLand                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      32 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 mins (0.93%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 48,784 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -209,5 +227,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 05:07:43 UTC
+ Last Updated on 30/09/2026 04:55:11 UTC
 <!--END_SECTION:waka-->
