@@ -157,7 +157,7 @@ const pentablet = "Parblo A610 Pro";
 <img src="https://komarev.com/ghpvc/?username=m0netka&color=blue&label=Profile+View" alt="Profile views"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2032%20mins-blue?style=flat)
 
@@ -179,25 +179,25 @@ const pentablet = "Parblo A610 Pro";
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 7 mins       ████████████████████████░   94.63 % 
-Java                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Groovy                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Mixin Json Configuration 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Gradle                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    26 hrs 11 mins      ████████████████████████░   94.06 % 
+Java                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Groovy                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Mixin Json Configuration 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Gradle                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 11 mins      ███████████████████████░░   91.62 % 
-IntelliJ IDEA            1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Codex Vscode             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Chrome                   25 hrs 15 mins      ███████████████████████░░   90.74 % 
+IntelliJ IDEA            1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Codex Vscode             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Mac                      30 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (4.57%)
+⏱ AI Coding Time: 1 hr 24 mins (5.05%)
 
 ✍️ 0 lines written by AI, 16 lines written by hand (0.0% AI-written)
 
@@ -230,5 +230,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 04:56:34 UTC
+ Last Updated on 06/10/2026 05:43:58 UTC
 <!--END_SECTION:waka-->
